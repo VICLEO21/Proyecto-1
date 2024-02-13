@@ -1,4 +1,4 @@
-from myLib import *
+from mylib import *
 
 arr1 = [10,9,8,10,9]
 Estudiante1 = estudiante(601049, "Zaira Acosta    ",35, )
